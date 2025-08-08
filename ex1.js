@@ -1,0 +1,1 @@
+/* Create an array called cities with three city names of your choice*/
