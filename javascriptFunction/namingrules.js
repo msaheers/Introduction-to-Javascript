@@ -16,3 +16,4 @@
 function test() {
     let x = 5; // only exists here
 }
+console.log(x);
